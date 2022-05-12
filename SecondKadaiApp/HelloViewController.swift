@@ -20,8 +20,6 @@ class HelloViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         
-        
-        // Do any additional setup after loading the view.
         label.text = "こんにちは、 \(name) さん"
 
     }
